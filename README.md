@@ -20,7 +20,9 @@
 
 <h2>Punto 5-6-7: Proyecto conexión Base de datos</h2>
 <h3>5: Base de datos</h3>
-<img src="./public/images/mySql.png" alt="p7-8">
+<img src="./public/images/mySql.png" alt="p5">
+<h3>6: Conexión</h3>
+<img src="./public/images/conexionBd.png" alt="p6">
 
 <h2>Punto 9: </h2>
 <img src="./public/images/punto_9.png" alt="p9">
