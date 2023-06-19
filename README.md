@@ -19,7 +19,8 @@
 <img src="./public/images/punto_4.png" alt="p4">
 
 <h2>Punto 5-6-7: Proyecto conexión Base de datos</h2>
-<img src="./public/images/punto_7-8.png" alt="p7-8">
+<h3>5: Base de datos</h3>
+<img src="./public/images/mySql.png" alt="p7-8">
 
 <h2>Punto 9: </h2>
 <img src="./public/images/punto_9.png" alt="p9">
