@@ -27,16 +27,5 @@
 <h3>7: Muestra de datos en pantalla</h3>
 <img src="./public/images/datos.png" alt="p7">
 
-<h2>Punto 9: </h2>
-<img src="./public/images/punto_9.png" alt="p9">
-
-<h2>Punto 10: </h2>
-<img src="./public/images/punto_10.png" alt="p10">
-
-<h2>Punto 11: </h2>
-<img src="./public/images/punto_11.png" alt="p11">
-
-<h2>Punto 12: </h2>
-<img src="./public/images/punto_12.png" alt="p12">
 
 <h6>Trabajo desarrollado por SR.</h6>

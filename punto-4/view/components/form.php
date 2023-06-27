@@ -1,16 +1,16 @@
+<?php include "./controller/calculationController.php"; ?>
 
-
-<form action="./view/pages/user-info-page.php" method="get">
-  <h2>Formulario de registro</h2>
-      <div class="form__row">
-        <div>
-          <label for="first_name">Primer nombre</label>
-          <input id="first_name" type="text" name="first_name" placeholder="jhon">
-          </div>
-        <div>
-          <label for="second_name">Primer Apellido</label>
-          <input id="second_name" type="text" name="second_name" placeholder="perez">
-        </div>
-      </div>
-  <button>Enviar</button>
+<form method="post">
+  <h2>Calculadora Edad</h2>
+  <div class="form__row">
+    <div>
+      <label for="person_name">Digita tu nombre</label>
+      <input id="person_name" type="text" name="person_name" placeholder="Sonia">
+    </div>
+    <div>
+      <label for="birth_date">Digita tu fecha nacimiento</label>
+      <input id="birth_date" type="date" name="birth_date" >
+    </div>
+  </div>
+  <button>Calcular</button>
 </form>

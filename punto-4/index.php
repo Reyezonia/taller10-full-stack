@@ -8,21 +8,8 @@
     <title>Ejercicio 4</title>
 </head>
 <body>
-    <h1>Enviar datos del usuario</h1><hr>
+    <h1>Edad</h1><hr>
     <?php include "./view/components/form.php"; ?>
-  <!-- 
-   punto 3 del taller input date
-    controller /*
-    <?php $birth = new DateTime($_POST["birh_date"]);
-
-    today = new DateTime();
-    $newDate = $birth->diff($today);
-    
-    if($newDate->days >= 18 años en dias)
-  ?>*/
-  -->
- 
-
-    
+    <?php include "./view/components/result.php"; ?>
 </body>
 </html>
