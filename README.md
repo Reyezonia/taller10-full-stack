@@ -7,16 +7,17 @@
 
 
 <h2>Punto 1: Operación de dos números</h2>
-<br>
+<img src="./public/images/p1.png" alt="p1">
 
 <h2>Punto 2: Calculo de Mayoría de Edad</h2>
-<img src="./public/images/html.png" alt="html">
+<img src="./public/images/p2.png" alt="p2">
 
 <h2>Punto 3: Paso de datos del usuario </h2>
-<img src="./public/images/css.png" alt="css">
+<img src="./public/images/p3-1.png" alt="p3-1">
+<img src="./public/images/p3-2.png" alt="p3-2">
 
 <h2>Punto 4: Calculo de Mayoría de Edad con Fechas</h2>
-<img src="./public/images/punto_4.png" alt="p4">
+<img src="./public/images/p4.png" alt="p4">
 
 <h2>Punto 5-6-7: Proyecto conexión Base de datos</h2>
 <h3>5: Base de datos</h3>

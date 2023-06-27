@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../styles/general-styles.css">
     <link rel="stylesheet" href="./view/styles/form.css">
-    <title>Ejercicio 2</title>
+   <title>Punto 3</title>
 </head>
 <body>
-    <h1>Edad</h1><hr>
-    <?php include "./view/components/form.php"; ?>
-    <?php include "./view/components/result.php"; ?>
+    <h1>Formulario</h1><hr>
+    <?php include "./view/components/form.php"; ?>    
 </body>
 </html>
