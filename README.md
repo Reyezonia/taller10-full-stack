@@ -23,6 +23,8 @@
 <img src="./public/images/mySql.png" alt="p5">
 <h3>6: Conexión</h3>
 <img src="./public/images/conexionBd.png" alt="p6">
+<h3>7: Muestra de datos en pantalla</h3>
+<img src="./public/images/datos.png" alt="p7">
 
 <h2>Punto 9: </h2>
 <img src="./public/images/punto_9.png" alt="p9">
